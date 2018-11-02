@@ -1,3 +1,46 @@
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>there's a man up in a tree in a blue suit</title><style>
+body 	{ margin-left:100px;
+	width:650px;
+	color : #333; }
+pre	{ line-height : 150%;
+	font-size : 14px;
+	font-family : Input, Consolas, monospace;
+	overflow-wrap: break-word;
+	white-space: pre-wrap;
+	width:40vmax;
+	} 
+pre a { text-decoration : underline/*none*/;
+	font-weight : bold;
+	color : black;
+	font-size:14px;	}	
+pre a:hover { color : red; }
+em {color:#808080;}
+strong {font-size:14px;} 
+img {max-width:600px;}
+/* sidebar definition */
+@media only screen and (min-width: 1000px) {
+#s {position: fixed;width: 20vmax;top: 4em;right: 2em;}
+}
+
+</style><meta name="ROBOTS" content="NOINDEX, NOFOLLOW"><style></style></head>
+
+<body><pre>
+
+
+<!--<em> We take a tiny colony of soft corals from a rock in a little water world. 
+   And that isn't terribly important to the tide pool. 
+   
+ Fifty miles away the Japanese shrimp boats are dredging with overlapping scoops, bringing up tons of shrimps, rapidly destroying the species so that it may never come back, and with the species destroying the ecological balance of the whole region. 
+   That isn't very important in the world. 
+   
+ And thousands of miles away the great bombs are falling 
+   and the stars are not moved thereby. 
+   
+ None of it is important or all of it is.</em>
+
+ 
+   Log from the Sea of Cortez (1951)-->   
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2.0.17
 
